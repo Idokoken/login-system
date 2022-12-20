@@ -1,0 +1,15 @@
+*{
+    box-sizing: border-box;
+}
+:root{
+    --primarycolor: pink;
+    --secondarycolor: purple;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+}
+main{
+    min-height: 70vh;
+}
